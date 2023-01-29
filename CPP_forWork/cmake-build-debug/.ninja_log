@@ -1,0 +1,10 @@
+# ninja log v5
+0	372	6967046596050217	CMakeFiles/CPP_forWork.dir/main.cpp.obj	a173c0bcd88db981
+3	375	6967046596050217	CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/Varible_Type.cpp.obj	37e8368c0cd501a6
+0	109	6967087508739191	build.ninja	9aebc263b2bfd1e6
+1	65	6967047074178115	CPP_forWork.exe	8fb82102d60cc26e
+2	277	6967105288315996	CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/Varible_Type.cpp.obj	37e8368c0cd501a6
+5	282	6967105288376050	CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/modifier.cpp.obj	6380025af58c1fa9
+283	385	6967105289366126	CPP_forWork.exe	e9e702c6abdd0a62
+2	213	6967107112206057	CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/modifier.cpp.obj	6380025af58c1fa9
+214	281	6967107112846056	CPP_forWork.exe	e9e702c6abdd0a62
