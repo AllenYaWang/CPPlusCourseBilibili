@@ -7,7 +7,7 @@ using namespace std;
 /*
  * 这个程序演示了有符号和无符号整数之间的差别
  */
-int main(){
+int main02(){
     short int i; // 有符号短整形；
     short unsigned int j; // 无符号短整形；
 

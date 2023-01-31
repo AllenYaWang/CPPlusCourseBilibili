@@ -61,6 +61,12 @@ build CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/modifier.cpp.obj: CXX_COMP
   OBJECT_DIR = CMakeFiles\CPP_forWork.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP_forWork.dir\RUNOOB_CPP\CPP_basic
 
+build CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/loop.cpp.obj: CXX_COMPILER__CPP_forWork_Debug D$:/codeproject/cplusplusproject/CPP_forWork/RUNOOB_CPP/CPP_basic/loop.cpp || cmake_object_order_depends_target_CPP_forWork
+  DEP_FILE = CMakeFiles\CPP_forWork.dir\RUNOOB_CPP\CPP_basic\loop.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_forWork.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_forWork.dir\RUNOOB_CPP\CPP_basic
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP_forWork
@@ -69,7 +75,7 @@ build CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/modifier.cpp.obj: CXX_COMP
 #############################################
 # Link the executable CPP_forWork.exe
 
-build CPP_forWork.exe: CXX_EXECUTABLE_LINKER__CPP_forWork_Debug CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/Varible_Type.cpp.obj CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/modifier.cpp.obj
+build CPP_forWork.exe: CXX_EXECUTABLE_LINKER__CPP_forWork_Debug CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/Varible_Type.cpp.obj CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/modifier.cpp.obj CMakeFiles/CPP_forWork.dir/RUNOOB_CPP/CPP_basic/loop.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP_forWork.dir
